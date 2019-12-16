@@ -1,0 +1,11 @@
+name: stock-trading-ml
+channels:
+  - defaults
+dependencies:
+  - python=3.5
+  - pandas
+  - numpy
+  - scikit-learn
+  - keras
+  - tensorflow
+  - matplotlib
