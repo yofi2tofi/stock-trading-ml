@@ -1,5 +1,7 @@
 # Stock Price direction prediction with Machine Learning
 
+[MediumPost](https://medium.com/@yofi2tofi/predict-the-direction-of-the-stock-closing-price-with-bilstm-for-mega-profit-a89c8f2ef5b6)
+
 ## Requirements
 
 - python=3.5
